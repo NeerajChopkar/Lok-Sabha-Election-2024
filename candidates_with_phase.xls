@@ -1,11 +1,1 @@
-Summary of the election results for various Parliamentary Constituencies. It lists the winning and runner-up candidates, their respective parties, the margin of votes, and the status of the results.
 
-State: The name of the state where the election took place.
-PC No: The Parliamentary Constituency number, a unique identifier for each constituency.
-PC Name: The name of the Parliamentary Constituency.
-Winning Candidate: The name of the candidate who won the election in the respective constituency.
-Winning Party: The name of the political party of the winning candidate.
-Runner-up Candidate: The name of the candidate who secured the second-highest number of votes in the respective constituency.
-Runner-up Party: The name of the political party of the runner-up candidate.
-Margin Votes: The difference in the number of votes between the winning candidate and the runner-up candidate.
-Results Status: The status of the election result, which is "Result Declared" for all entries in this dataset.
